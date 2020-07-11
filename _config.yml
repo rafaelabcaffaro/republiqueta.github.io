@@ -1,0 +1,79 @@
+# Site
+name: "A República"
+title: "A República"
+description: "Impressões sobre o Brasil presentemente."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl:
+google_analytics: ''
+disqus: ''
+mailchimp-list: 'https://gmail.us10.list-manage.com/subscribe/post?u=9384e21d0b0cc53d1c95e6322&amp;id=20e9b56205'
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  sal:
+    name: Sal
+    display_name: Sal
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  john:
+    name: John
+    display_name: John
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  lg:
+    name: Luís Gustavo Pessoa Sales
+    display_name: Luís Gustavo
+    avatar: 'assets/images/lg.jpg'
+    email: pessoasales@usp.br
+    twitter: https://twitter.com/lgpsales
+    description: "Cada vez menos interessado em definições e cada vez mais encantado com as relações."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: ""
+adsense-data-ad-slot: ""
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
