@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A República</title>
+    <title>Republiqueta</title>
     <description>Impressões sobre o Brasil presentemente.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Jul 2020 16:05:01 -0300</pubDate>
-    <lastBuildDate>Sat, 11 Jul 2020 16:05:01 -0300</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2020 07:00:15 -0300</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2020 07:00:15 -0300</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
-        <title>Brasil: Uma evolução possível</title>
+        <title>Brasil: a martelada necessária</title>
         <description>&lt;p&gt;O falecimento de Aldir Blanc ressoou em mim como chamado para uma cachaça ouvindo sua obra. Sem necessidade dizer sobre a atualidade das canções. Uma das faixas me irritou. Sem aborrecimento, fiquei incomodado. As queixas do Brasil sobre o Brazil me puseram a enxergar o presente como se meus olhos cantassem “O Brazil não merece o Brasil/O Brazil tá matando o Brasil”.&lt;/p&gt;
 
 &lt;p&gt;Pode parecer apenas querela com a língua inglesa - como talvez indique a interpretação de Elis Regina. Porém, há elementos que indicam ser mais que isso.&lt;/p&gt;
@@ -19,91 +19,67 @@
 
 &lt;p&gt;Vale ressaltar que há espaço para diferentes tempos na sociedade moderna.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Não somos jabuticaba como se quer supor.&lt;/p&gt;
 
-&lt;p&gt;Porém, causa estranhamento em nossa história a convivência de liberalismo ressignificado para conviver com a escravidão. Causa incômodo as adaptações de homens livres na ordem escravocrata para restringir o direito a voto nas proximidades da abolição (analfabetos só obtiveram direito a voto novamente em 1988). Causa inquietação domésticas serem consideradas serviço essencial em tempos de pandemia no Pará, mesmo com toda pressão por moderação do arcaico ao longo do tempo. Causa espanto que a emancipação do negro e do índio, a educação primária pública e a conservação da natureza, um projeto para modernização do país a época da independência &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; ainda seja válido em qualquer programa político que vise a melhoria da nação.&lt;/p&gt;
+&lt;p&gt;Porém, causa estranhamento em nossa história a convivência de liberalismo ressignificado para conviver com a escravidão. Causa incômodo as adaptações de homens livres na ordem escravocrata para restringir o direito a voto nas proximidades da abolição (analfabetos só obtiveram direito a voto novamente em 1988). Causa inquietação domésticas serem consideradas serviço essencial em tempos de pandemia no Pará, mesmo com toda pressão por moderação do arcaico ao longo do tempo. Causa espanto que a emancipação do negro e do índio, a educação primária pública e a conservação da natureza, um projeto para modernização do país a época da independência [^2] ainda seja válido em qualquer programa político que vise a melhoria da nação.&lt;/p&gt;
 
-&lt;p&gt;Ainda, formação de povo como liga metálica conferindo unidade, o amálgama era tido como necessário para a formação de um país. &lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; Não é o que se vê. Não suporta-se as manifestações das periferias, do negro, do pobre. Funk e rap vivem os preconceitos que já foram direcionados ao samba: a diversão da juventude periférica é caso de polícia. Nos ciclos mais abastados há discussões acaloradas sobre a crise estética constituída do gosto popular.&lt;/p&gt;
+&lt;p&gt;Ainda, formação de povo como liga metálica conferindo unidade, o amálgama era tido como necessário para a formação de um país. [^3] Não é o que se vê. Não suporta-se as manifestações das periferias, do negro, do pobre. Funk e rap vivem os preconceitos que já foram direcionados ao samba: a diversão da juventude periférica é caso de polícia. Nos ciclos mais abastados há discussões acaloradas sobre a crise estética constituída do gosto popular.&lt;/p&gt;
 
-&lt;p&gt;Também, por um bom tempo o nome deste país foi disputado. Coexistiram os termos “Brasil” e “Brazil” nos séculos XIX e XX. &lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; A República proclamada em 1989 era dos Estados Unidos do Brazil. Apenas com o Decreto 20.108 de 1931 que a grafia “dubidativa” foi oficialmente decidida com “s”.&lt;/p&gt;
+&lt;p&gt;Também, por um bom tempo o nome deste país foi disputado. Coexistiram os termos “Brasil” e “Brazil” nos séculos XIX e XX. [^4] A República proclamada em 1989 era dos Estados Unidos do Brazil. Apenas com o Decreto 20.108 de 1931 que a grafia “dubidativa” foi oficialmente decidida com “s”.&lt;/p&gt;
 
-&lt;p&gt;Tudo posto, moderno e arcaico na contemporaneidade de nossa sociedade esgarçam sobremaneira as possibilidades da nação. Nesse contexto se coloca a oposição entre Brazil(arcaico) e Brasil(moderno). Oposição de que subsiste fortemente.
-Transparece Brazil resistindo ao Brasil e impedindo a representação da sociedade pela sociedade que seja minimamente coesa.&lt;/p&gt;
+&lt;p&gt;Tudo posto, moderno e arcaico na contemporaneidade de nossa sociedade esgarçam sobremaneira as possibilidades da nação. Nesse contexto se coloca a oposição entre Brazil e Brasil. Oposição que subsiste fortemente.&lt;/p&gt;
 
-&lt;p&gt;Não me parece absurdo pensar que dentre os motivadores da crise que se instaura desde 2013 está a proeminência da ética, da estética e da linguagem do Brasil.&lt;/p&gt;
+&lt;p&gt;Transparece Brazil resistindo ao Brasil e impedindo a representação da sociedade pela sociedade que seja minimamente coesa.&lt;/p&gt;
 
 &lt;p&gt;Houve tempos em que o avanço brasileiro foi mediado de forma a tornar mais palatável para o Brazil as marteladas no “z”. A bossa nova foi ápice da disseminação do samba. Os interesses do industriais suportaram o regime que consolidou as leis trabalhistas. A crise econômica ensejou a reabertura e deixou palatável as piadas chulas em rede nacional depois dos anos de repressão.&lt;/p&gt;
 
 &lt;p&gt;O alinhamento de interesses e gostos pessoais dos brazileiros com certo avanço do Brasil permitiu que caminhássemos.&lt;/p&gt;
 
-&lt;p&gt;Hoje, a mediação deve se dar pela democracia. Mais que uma forma de governo, democracia é forma de lidar com dissenso. Em outras palavras, é a própria essência da política. &lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; Em tempos de crise política, quando aparecem saídas fora da política embaladas por gritos de “sem partido” e camisetas de “meu partido é Brasil”(sic), não é de espantar que se orientem para fora da democracia.
-Portanto, como a crise a crise da política é, em si, a crise da mediação de dissenso, impossível desvencilhar-se da crise da democracia sem lidar com a crise política&lt;/p&gt;
+&lt;p&gt;Não me parece absurdo pensar que dentre os motivadores da crise que se instaura desde 2013 está a proeminência da ética, da estética e da linguagem do Brasil sem respeito algum ao gosto do brazileiro.&lt;/p&gt;
+
+&lt;p&gt;Hoje, a retomada da mediação deve se dar pela democracia. Mais que uma forma de governo, democracia é forma de lidar com dissenso. Em outras palavras, é a própria essência da política. [^5] Em tempos de crise política, quando aparecem saídas fora da política embaladas por gritos de “sem partido” e camisetas de “meu partido é Brasil”(sic), não é de espantar que se orientem para fora da democracia.&lt;/p&gt;
+
+&lt;p&gt;Portanto, a crise da política é, em si, a crise da mediação de dissenso, impossível desvencilhar-se da crise da democracia sem lidar com a crise política.&lt;/p&gt;
 
 &lt;p&gt;Por outro lado, na pandemia surgem possibilidades de organização social essencialmente lidando com o dissenso, ou seja, políticas. Em Paraisópolis, a comunidade se organizou para contratar ambulâncias, médicos e enfermeiros. 240 moradores foram treinados para atuarem como socorristas em 60 bases de emergência. No assentamento Araras, no Piauí, moradores instituíram confinamento para proteger pessoas em grupos de risco. Grupos de cientistas, engenheiros, advogados e makers se organizam para projetar e produzir alternativas baratas para respiradores e máscaras. Proliferam-se ações de coletivos, amigos, grupos religiosos e indivíduos distribuindo cestas básicas, kits com máscara, material de higiene e orientando populações em contexto de vulnerabilidade.&lt;/p&gt;
 
-&lt;p&gt;Impossível não ver preocupação uns com os outros. Impossível não perceber a solidariedade orientando tais ações.
-Ao mesmo tempo, socializar as perdas deste tempo de agrura é pleito do Brazil e do Brasil. O orçamento não comporta todas as demandas. Há discurso sobre necessidades ilimitada e recursos escassos.&lt;/p&gt;
+&lt;p&gt;Impossível não ver preocupação de uns com os outros, o cuidado comunitário. Impossível não perceber a solidariedade orientando tais ações.&lt;/p&gt;
 
-&lt;p&gt;Seriam mesmo necessidades ilimitadas? Ou os ilimitados seriam os desejos?&lt;/p&gt;
+&lt;p&gt;Ao mesmo tempo, socializar as perdas deste tempo de agrura é pleito do Brazil e do Brasil. O orçamento não comporta todas as demandas. Há discurso sobre necessidades ilimitada e recursos escassos. Seriam mesmo necessidades ilimitadas? Ou os ilimitados seriam os desejos?&lt;/p&gt;
 
-&lt;p&gt;Em contextos de tensão exacerbada, nossa política parece querer criar soluções para alimentar a existência de multiplicidade de leituras ou representações sobre o Brasil.&lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; Um exemplo é a saída para o impasse sobre o dispositivo que regula descanso semanal remunerado. O texto indicou descanso “preferencialmente” aos domingos. Assim, a esquerda pôde comemorar a inclusão do descanso aos domingos, e a direita comemorou o advérbio flexibilizador. No fundo, a democracia protelou a discussão e manteve visões díspares em disputa.&lt;/p&gt;
+&lt;p&gt;Em contextos de tensão exacerbada, nossa política parece querer criar soluções para alimentar a existência de multiplicidade de leituras ou representações sobre o país[^6], respeitando a existência do Brazil. Um exemplo é a saída para o impasse sobre o dispositivo que regula descanso semanal remunerado. O texto indicou descanso “preferencialmente” aos domingos. Assim, a esquerda pôde comemorar a inclusão do descanso aos domingos, e a direita comemorou o advérbio flexibilizador. No fundo, a democracia protelou a discussão e manteve possível a existência do arcaico.&lt;/p&gt;
 
 &lt;p&gt;Não deixa de ser uma forma de mediar o dissenso.&lt;/p&gt;
 
-&lt;p&gt;Se a mediação do dissenso é própria da democracia e nem sempre a democracia apenas indica soluções unificadoras da representação da sociedade,  a questão da socialização das perdas precisa de um norte: a República. É o republicanismo que contém os desejos individuais em prol das necessidades mais acentuadas. &lt;sup id=&quot;fnref:7&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; Na República, renda básica e manutenção de empregos com salários mais baixos estão acima da retomada do lucro e da manutenção de salários altos nos dias atuais.&lt;/p&gt;
+&lt;p&gt;Se a mediação do dissenso é própria da democracia e nem sempre a democracia apenas indica soluções unificadoras da representação da sociedade, a questão da socialização das perdas precisa de um norte: a República. É o republicanismo que contém os desejos individuais em prol das necessidades mais acentuadas.[^7] Na República, renda básica e manutenção de empregos com salários mais baixos estão acima da retomada do lucro e da manutenção de salários altos nos dias atuais.&lt;/p&gt;
 
-&lt;p&gt;Na República, fica claro que se forja o Brasil martelando o Brazil. Não à toa, a crítica da grande propriedade é presente desde que somos país. &lt;sup id=&quot;fnref:8&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; Não à toa, saída republicana para a crise só é possível com a defesa das capacidades contributivas e receptivas como orientadoras do sistema tributário e da distribuição dos recursos do orçamento para emergência de liberdade. Mas não qualquer liberdade. A liberdade igual. &lt;sup id=&quot;fnref:9&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Na República, fica claro que se forja o Brasil martelando o Brazil. Não à toa, a crítica da grande propriedade é presente desde que somos país. [^8] Não à toa, saída republicana para a crise só é possível com a aumento de contribuição em compasso com a capacidade contributiva e direcionamento de gastos orientada por capacidades receptivas. O sistema tributário e a distribuição dos recursos do orçamento deve estat alinhado para a emergência de liberdade. Mas não qualquer liberdade. A liberdade igual. [^9][^7]&lt;/p&gt;
 
-&lt;p&gt;O alento é que se encontra em nossa sociedade o valor da solidariedade. Mais que isso, Aldir como ninguém expõe o amálgama que surge do Brasil: carará, alaúde, caratê, alerê. Sertões, Guimarães, bachianas. Jobim-açu.
-Enfim, há possibilidade de uma evolução moderna de nossa sociedade que seja republicana, democrática e brasileira.
-Ponto de atenção é que das palavras da letra de Querelas, alerê é a única que não encontra definição dos dicionários. Indício claro de que discutir a existência de racismo estrutural é defender o Brazil. É defender o arcaico.&lt;/p&gt;
+&lt;p&gt;O alento é que se encontra em nossa sociedade o valor da solidariedade. Mais que isso, Aldir como ninguém expõe o amálgama que surge do Brasil: carará, alaúde, caratê, alerê. Sertões, Guimarães, bachianas. Jobim-açu. Enfim, há possibilidade de um caminho para nossa sociedade que seja republicano, democrático e brasileiro.&lt;/p&gt;
 
-&lt;p&gt;Não enxergar o racismo estrutural indica a necessidade de construção de linguagem de auto-observação de nossa sociedade. Não há possibilidade de auto-observação sem experiência das manifestações culturais do rap, do funk, do pop brasileiro, do congado, da MPB, do sertanejo, do samba, do forró, do slam. Todas as manifestações do Brasil precisam ser valorizadas.&lt;/p&gt;
+&lt;p&gt;Ponto de atenção é que das palavras da letra de Querelas, alerê é a única que não encontra definição dos dicionários. Indício claro de que discutir a existência de racismo estrutural é defender o Brazil. É defender o arcaico. Racismo estrutural está posto. Ponto.&lt;/p&gt;
 
-&lt;p&gt;Veja, o progresso da nação no século XX, até a década de 70, ocorreu após a Semana de Arte Moderna de 1922 e sua antropofagia mediadora das linguagens do Brazil e do Brasil.&lt;/p&gt;
+&lt;p&gt;Existir quem não enxerga o racismo estrutural indica a necessidade de construção de linguagem de auto-observação de nossa sociedade. Não há possibilidade de auto-observação sem experiência das manifestações culturais do rap, do funk, do pop brasileiro, do congado, da MPB, do sertanejo, do samba, do forró, do slam. De todas as manifestações culturais do Brasil, esse com “s”.&lt;/p&gt;
 
-&lt;p&gt;Como linguagem precisa de símbolos, a primeira decisão política recuperar os símbolos que o Brazil tenta roubar e valorizar o que nasce como cultura em todo canto.&lt;/p&gt;
+&lt;p&gt;Veja, o progresso da nação no século XX, até a década de 70, ocorreu após a Semana de Arte Moderna de 1922 e sua antropofagia sintetizadora das linguagens.&lt;/p&gt;
 
-&lt;p&gt;É preciso reafirmarmos: o Brazil não vai matar o Brasil!&lt;/p&gt;
+&lt;p&gt;Como linguagem precisa de símbolos, a primeira decisão política recuperar os símbolos que o Brazil tenta roubar e valorizar os que nascem como cultura em todo canto.&lt;/p&gt;
+
+&lt;p&gt;É preciso reafirmarmos: o Brazil não vai matar o Brasil! Esse genocídio não mais vai o suficiente para nos calar e vai ser combatido à martelada.&lt;/p&gt;
 
 &lt;p&gt;Estaremos vivos para gozar da liberdade. E Liberdade igual, na diversidade e multiplicidade de vivências. Nenhuma outra interessa.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p style=&quot;font-size: 0.9rem;font-style: italic;&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/21690210@N07/4657881573&quot;&gt;&quot;Kolombolo&quot;&lt;/a&gt;&lt;span&gt; by &lt;a href=&quot;https://www.flickr.com/photos/21690210@N07&quot;&gt;Cibele Nogueira&lt;/a&gt;&lt;/span&gt; is licensed under &lt;a href=&quot;https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&amp;amp;atype=html&quot; style=&quot;margin-right: 5px;&quot;&gt;CC BY-NC 2.0&lt;/a&gt;&lt;a href=&quot;https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&amp;amp;atype=html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; style=&quot;display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;&quot;&gt;&lt;img style=&quot;height: inherit;margin-right: 3px;display: inline-block;&quot; src=&quot;https://search.creativecommons.org/static/img/cc_icon.svg&quot; /&gt;&lt;img style=&quot;height: inherit;margin-right: 3px;display: inline-block;&quot; src=&quot;https://search.creativecommons.org/static/img/cc-by_icon.svg&quot; /&gt;&lt;img style=&quot;height: inherit;margin-right: 3px;display: inline-block;&quot; src=&quot;https://search.creativecommons.org/static/img/cc-nc_icon.svg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Conforme concepção luhmanniana. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Projeto de José Bonifácio. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Também ideia de José Bonifácio. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Estudo de Maiara Ferreira Fraga do Franco e Thales Ribeiro de Souza &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Rancière &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;da carência de unidade representativa da sociedade - Luhmann &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Scaff &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Bonifácio &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:9&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Scaff &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Conforme concepção luhmanniana. [^2]: Projeto de José Bonifácio. [^3]: Também ideia de José Bonifácio. [^4]: Estudo de Maiara Ferreira Fraga do Franco e Thales Ribeiro de Souza [^6]: da carência de unidade representativa da sociedade - Luhmann [^5]: Rancière [^7]: Scaff [^8]: Bonifácio [^9]: Scaff &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 05 Jul 2020 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/brasil-uma-evolucao-possivel/</link>
-        <guid isPermaLink="true">http://localhost:4000/brasil-uma-evolucao-possivel/</guid>
+        <pubDate>Sat, 18 Jul 2020 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/brasil-a-martelada-necessaria/</link>
+        <guid isPermaLink="true">http://localhost:4000/brasil-a-martelada-necessaria/</guid>
         
         
         <category>brasil</category>
@@ -168,11 +144,11 @@ Ponto de atenção é que das palavras da letra de Querelas, alerê é a única 
 8
 &lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nc&quot;&gt;.highlight&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
     &lt;span class=&quot;nl&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#999988&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;font-style&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;italic&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
+    &lt;span class=&quot;nl&quot;&gt;font-style&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;italic&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;nc&quot;&gt;.highlight&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.err&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
     &lt;span class=&quot;nl&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#a61717&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#e3d2d2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
+    &lt;span class=&quot;nl&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#e3d2d2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -271,63 +247,6 @@ Ponto de atenção é que das palavras da letra de Querelas, alerê é a única 
       </item>
     
       <item>
-        <title>Education must also train one for quick, resolute and effective thinking.</title>
-        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor&lt;/p&gt;
-
-&lt;p&gt;If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
-
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
-
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
-
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
-
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
-
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
-
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
-
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
-
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/education/</link>
-        <guid isPermaLink="true">http://localhost:4000/education/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
         <title>Accumulated experience of social living</title>
         <description>&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
 
@@ -344,123 +263,6 @@ Ponto de atenção é que das palavras da letra de Querelas, alerê é a única 
         <pubDate>Tue, 12 Jun 2018 00:00:00 -0300</pubDate>
         <link>http://localhost:4000/acumulated-experience/</link>
         <guid isPermaLink="true">http://localhost:4000/acumulated-experience/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>About Bundler</title>
-        <description>&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gem install bundler&lt;/code&gt; installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundler&lt;/code&gt; is a gem that manages other Ruby gems. It makes sure your gems and gem versions are compatible, and that you have all necessary dependencies each gem requires.&lt;/p&gt;
-
-&lt;p&gt;The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gemfile&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; files inform &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; about the gem requirements in your site. If your site doesn’t have these Gemfiles, you can omit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec&lt;/code&gt; and just &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;run jekyll serve&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;When you run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; uses the gems and versions as specified in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; to ensure your Jekyll site builds with no compatibility or dependency conflicts.&lt;/p&gt;
-
-&lt;p&gt;For more information about how to use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; in your Jekyll project, this tutorial should provide answers to the most common questions and explain how to get up and running quickly.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 12 May 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/about-bundler/</link>
-        <guid isPermaLink="true">http://localhost:4000/about-bundler/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-      </item>
-    
-      <item>
-        <title>We all wait for summer</title>
-        <description>&lt;p&gt;As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;
-
-&lt;p&gt;It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 -0200</pubDate>
-        <link>http://localhost:4000/we-all-wait-for-summer/</link>
-        <guid isPermaLink="true">http://localhost:4000/we-all-wait-for-summer/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Tree of Codes</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 -0200</pubDate>
-        <link>http://localhost:4000/tree-of-codes/</link>
-        <guid isPermaLink="true">http://localhost:4000/tree-of-codes/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Red Riding Hood</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 -0200</pubDate>
-        <link>http://localhost:4000/red-riding/</link>
-        <guid isPermaLink="true">http://localhost:4000/red-riding/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Press and education</title>
-        <description>&lt;p&gt;Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
-
-&lt;p&gt;Education must also train one for quick, &lt;strong&gt;resolute and effective thinking&lt;/strong&gt;. To think incisively and to think for one’s self is very difficult.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
-
-&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
-
-&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 -0200</pubDate>
-        <link>http://localhost:4000/press-and-education/</link>
-        <guid isPermaLink="true">http://localhost:4000/press-and-education/</guid>
         
         
         <category>Jekyll</category>

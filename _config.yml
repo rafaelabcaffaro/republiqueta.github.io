@@ -1,9 +1,10 @@
 # Site
-name: "A República"
-title: "A República"
+name: "Republiqueta"
+title: "Republiqueta"
 description: "Impressões sobre o Brasil presentemente."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo_yb: 'assets/images/logo_yb.png'
+favicon: 'assets/images/favicon.png'
 baseurl:
 google_analytics: ''
 disqus: ''

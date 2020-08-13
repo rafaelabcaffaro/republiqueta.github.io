@@ -11,6 +11,28 @@ License: https://www.wowthemes.net/freebies-license/
     padding: 1rem 0rem;
 }
 
+.mainsitetile {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.mainheading img {
+  max-width: 100px;
+  height: auto;
+  margin-right: 10px;
+}
+
+.mainheading br {
+  display: block; /* makes it have a width */
+  content: ""; /* clears default height */
+  margin-top: 0; /* change this to whatever height you want it */
+}
+
+body {
+  font-family: 'M PLUS Rounded 1c', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
 a {
     color: #00ab6b;
     transition: all 0.2s;
@@ -39,7 +61,7 @@ pre {
 }
 
 .mediumnavigation {
-    background: rgba(255, 255, 255, .97);
+    background: rgba(239, 191, 78, .97);
     box-shadow: 0 2px 2px -2px rgba(0, 0, 0, .15);
     transition: top 0.2s ease-in-out;
 }
@@ -305,7 +327,8 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: Righteous;
+    font-family: 'Mansalva', cursive;
+    line-height: 0.8;
 }
 
 .mainheading h1.posttitle {
@@ -330,7 +353,7 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-    font-family: Merriweather;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
     font-size: 1.1rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);
@@ -570,7 +593,11 @@ ul.tags li a:hover {
     padding: 14px 0;
     z-index: 1;
     display: none;
-}
+  }
+
+  .alertbar img {
+        max-width: 100px;
+  }
 
 .alertbar form {
     display: inline-block;
@@ -694,7 +721,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: 'M PLUS Rounded 1c', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 .article-post .h1,
@@ -720,7 +747,7 @@ h6 {
 }
 
 .layout-page .article-post {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: 'M PLUS Rounded 1c', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-size: 1rem;
 }
 

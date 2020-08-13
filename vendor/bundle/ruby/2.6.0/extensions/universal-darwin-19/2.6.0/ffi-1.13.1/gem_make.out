@@ -1,5 +1,5 @@
 current directory: /Users/vatsu/Work/contrapelo/vendor/bundle/ruby/2.6.0/gems/ffi-1.13.1/ext/ffi_c
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20200705-36129-11s2kz5.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20200711-54970-2ddnm0.rb extconf.rb
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi,/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/ffi,/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/ffi... yes
 checking for ffi_prep_closure_loc() in -lffi... yes
@@ -42,4 +42,4 @@ ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/
 
 current directory: /Users/vatsu/Work/contrapelo/vendor/bundle/ruby/2.6.0/gems/ffi-1.13.1/ext/ffi_c
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20200705-36129-oq2q1m
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20200711-54970-1ewzygn
