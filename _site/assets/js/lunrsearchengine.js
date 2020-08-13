@@ -17,8 +17,8 @@ var documents = [{
     }, {
     "id": 3,
     "url": "http://localhost:4000/sobre",
-    "title": "Manifesto",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. "
+    "title": "Sobre",
+    "body": "republiquetare·pu·bli·que·tasf  PEJ Pequena república; república insignificante. republicarre·pu·bli·carvtd  Publicar novamente; reeditar. repúblicare·pú·bli·casf  Residência habitada por estudantes, geralmente universitários, que dividem as despesas e as tarefas comuns.  POR EXT O conjunto de estudantes que vivem nessa residência.  COLOQ, PEJ Associação sem ordem, bagunçada. "
     }, {
     "id": 4,
     "url": "http://localhost:4000/temas",

@@ -359,7 +359,7 @@ span.post-read-more a:hover {
     color: rgba(0, 0, 0, .8);
 }
 
-.article-post > p:first-of-type:first-letter {
+.article-post:not(.page) > p:first-of-type:first-letter {
   float: left;
   font-size: 75px;
   line-height: 60px;

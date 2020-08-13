@@ -1,15 +1,24 @@
 ---
 layout: page
-title: Manifesto
+title: Sobre
 permalink: /sobre
 ---
+**republiqueta**
+*re·pu·bli·que·ta*
+sf
 
-<div class="row justify-content-between">
-<div class="col-md-12">
+1. PEJ Pequena república; república insignificante.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**republicar**
+*re·pu·bli·car*
+vtd
 
+1. Publicar novamente; reeditar.
 
+**república**
+*re·pú·bli·ca*
+sf
 
-</div>
-</div>
+4. Residência habitada por estudantes, geralmente universitários, que dividem as despesas e as tarefas comuns.
+5. POR EXT O conjunto de estudantes que vivem nessa residência.
+6. COLOQ, PEJ Associação sem ordem, bagunçada.
