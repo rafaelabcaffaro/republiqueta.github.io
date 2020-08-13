@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/acumulated-experience/</loc>
-<lastmod>2018-06-12T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/first-mass-produced/</loc>
-<lastmod>2018-06-12T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/powerful-things-markdown-editor/</loc>
-<lastmod>2018-06-12T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/brasil-a-martelada-necessaria/</loc>
-<lastmod>2020-07-18T00:00:00-03:00</lastmod>
+<loc>http://localhost:4000/ultracrepidarios/</loc>
+<lastmod>2020-08-13T00:00:00-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assuntos</loc>
@@ -29,18 +17,9 @@
 <loc>http://localhost:4000/temas</loc>
 </url>
 <url>
-<loc>http://localhost:4000/category/jekyll/</loc>
+<loc>http://localhost:4000/category/lugar-de-fala/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/category/tutorial/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/category/brasil/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/category/desigualdade/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/category/racismo/</loc>
+<loc>http://localhost:4000/category/debate-p%C3%BAblico/</loc>
 </url>
 </urlset>
