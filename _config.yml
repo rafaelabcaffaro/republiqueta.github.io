@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 logo_yb: 'assets/images/logo_yb.png'
 favicon: 'assets/images/favicon.png'
 baseurl:
-google_analytics: ''
+google_analytics: 'UA-175442418-1'
 disqus: ''
 mailchimp-list: 'https://gmail.us10.list-manage.com/subscribe/post?u=9384e21d0b0cc53d1c95e6322&amp;id=20e9b56205'
 include: ["_pages"]
