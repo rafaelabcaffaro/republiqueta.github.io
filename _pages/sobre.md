@@ -2,6 +2,7 @@
 layout: page
 title: Sobre
 permalink: /sobre
+description: Fragmentos do que somos.
 ---
 **republiqueta**
 *re·pu·bli·que·ta*

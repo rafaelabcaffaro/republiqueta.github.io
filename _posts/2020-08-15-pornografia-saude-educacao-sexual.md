@@ -1,6 +1,7 @@
 ---
 author: igorL
 categories: ["sexualidade","relacionamento","saúde","gênero"]
+description: O papel da pornografia na causa de problemas de sexualidade.
 image: assets/images/pornografia.jpg
 layout: post
 title: "Pornografia X Saúde e Educação sexual"

@@ -2,6 +2,7 @@
 layout: post
 title: ULTRACREPIDÁRIOS!
 author: mari
+description: Lugar de fala e ultracrepidários
 categories:
   - lugar de fala
   - debate público

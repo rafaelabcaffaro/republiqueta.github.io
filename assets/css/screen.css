@@ -326,9 +326,11 @@ span.post-read-more a:hover {
     margin-right: 5px;
 }
 
-.mainheading h1.sitetitle {
+.mainheading span.sitetitle {
     font-family: 'Mansalva', cursive;
     line-height: 0.8;
+    font-weight: 700;
+    font-size: 2.5rem;
 }
 
 .mainheading h1.posttitle {
