@@ -24,6 +24,11 @@ authors:
     display_name: Igor Lopes
     avatar: 'assets/images/igorL.jpg'
     description: "Apaixonado por arte e cultura, geek e sempre pensando em algo"
+  igorG:
+    name: Igor Gonçalves
+    display_name: Igor Gonçalves
+    avatar: 'assets/images/igorG.jpg'
+    description: "Estudante de História e algo mais?"
   lg:
     name: Luís Gustavo Pessoa Sales
     display_name: Luís Gustavo
