@@ -388,6 +388,13 @@ blockquote {
     margin-bottom: 1.5rem;
 }
 
+.featured-image.img-fluid {
+    max-width: 100%;
+    height: auto;
+    height: 800px;
+    object-fit: cover
+}
+
 .share {
     text-align: center;
 }
