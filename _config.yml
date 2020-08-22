@@ -14,11 +14,6 @@ permalink: /:title/
 
 # Authors
 authors:
-  mari:
-    name: Mariana Freire
-    display_name: Mariana Freire
-    avatar: 'assets/images/mari.jpg'
-    description: "Jovem, curiosa, nerd e fascinada pelas coisas simples da vida."
   igorL:
     name: Igor Lopes
     display_name: Igor Lopes
@@ -29,6 +24,11 @@ authors:
     display_name: Igor Gonçalves
     avatar: 'assets/images/igorG.jpg'
     description: "Jovem latino-americano, internacionalista e um entusiasta das causas entudantis."
+  juan:
+    name: Juan Comamala
+    display_name: Juan Comamala
+    avatar: 'assets/images/juan.jpg'
+    description: "O conforto não me move, não me inspira, não me instiga. O desconforto me move. Esse, me possui e me evolui."
   lg:
     name: Luís Gustavo Pessoa Sales
     display_name: Luís Gustavo
@@ -36,6 +36,11 @@ authors:
     email: pessoasales@usp.br
     twitter: https://twitter.com/lgpsales
     description: "Cada vez menos interessado em definições e cada vez mais encantado com as relações."
+  mari:
+    name: Mariana Freire
+    display_name: Mariana Freire
+    avatar: 'assets/images/mari.jpg'
+    description: "Jovem, curiosa, nerd e fascinada pelas coisas simples da vida."
 
 # Plugins
 plugins:
