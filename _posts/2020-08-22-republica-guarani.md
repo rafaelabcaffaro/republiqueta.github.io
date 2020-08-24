@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'República Guarani'
+title: '1° República Brasileira: indígena comunista'
 author: juan
 description:
 categories:
