@@ -41,6 +41,11 @@ authors:
     display_name: Mariana Freire
     avatar: 'assets/images/mari.jpg'
     description: "Jovem, curiosa, nerd e fascinada pelas coisas simples da vida."
+  mends:
+    name: Mends
+    display_name: Mends
+    avatar: 'assets/images/mends.jpg'
+    description: "44 anos sendo uma errata ambulante. Não me siga, porque não faço a mínima ideia pra onde estou indo. Não sabia o que queria com 18, não é agora que vou saber."
 
 # Plugins
 plugins:
