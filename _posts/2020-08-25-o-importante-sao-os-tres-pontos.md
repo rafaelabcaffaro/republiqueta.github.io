@@ -10,7 +10,6 @@ categories:
   - erosão constitucional
 image: assets/images/jair.jpg
 ---
-
 Eu queria escrever sobre meus filhos, o Corinthians, música, literatura, a minha mulher ou o Direito.
 
 Eu queria escrever sobre minhas paixões.

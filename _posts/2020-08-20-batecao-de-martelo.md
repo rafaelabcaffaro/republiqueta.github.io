@@ -21,7 +21,7 @@ Ainda assim, causa estranhamento em nossa história a convivência de liberalism
 
 Tanto mais, formação de povo como liga metálica conferindo unidade, o amálgama era tido como necessário para a formação de um país.[^2] Não é o que se vê. Nos círculos mais abastados há discussões acaloradas sobre a crise estética constituída do gosto popular. Parte da população não suporta as manifestações das periferias, do negro, do pobre. Funk e rap vivem os preconceitos que já foram direcionados ao samba. A diversão da juventude periférica é caso de polícia: a lei da vadiagem é revisitada todo dia.
 
-Também, por um bom tempo o nome deste país foi disputado. Coexistiram os termos "Brasil" e "Brazil" nos séculos XIX e XX.[^3] A República proclamada em 1989 era dos Estados Unidos do Brazil. Apenas com o Decreto 20.108 de 1931 a grafia "dubidativa" foi oficialmente decidida com "s". Porém, a oposição entre Brazil e Brasil subsiste fortemente.
+Também, por um bom tempo o nome deste país foi disputado. Coexistiram os termos "Brasil" e "Brazil" nos séculos XIX e XX.[^3] A República proclamada em 1889 era dos Estados Unidos do Brazil. Apenas com o Decreto 20.108 de 1931 a grafia "dubidativa" foi oficialmente decidida com "s". Porém, a oposição entre Brazil e Brasil subsiste fortemente.
 
 Transparece Brazil resistindo ao Brasil que nasce da cultura das ruas, do pensamento popular. Como consequência, o Brazil impede a representação da sociedade pela sociedade que seja minimamente coesa.
 
