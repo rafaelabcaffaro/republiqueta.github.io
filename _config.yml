@@ -12,6 +12,8 @@ mailchimp-list: 'https://gmail.us10.list-manage.com/subscribe/post?u=9384e21d0b0
 include: ["_pages"]
 permalink: /:title/
 
+future: false
+
 # Authors
 authors:
   igorL:
