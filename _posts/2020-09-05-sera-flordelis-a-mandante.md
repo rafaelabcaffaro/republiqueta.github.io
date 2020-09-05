@@ -4,8 +4,8 @@ title: 'Será Flordelis a mandante do assassinato de seu marido?'
 author: juan
 description: 'Há boatos que a pastora-deputada prefere um marido morto do que um ex-marido vivo. E, sinceramente? Dentro da nossa sociedade, faz sentido.'
 categories:
-  - comunismo
-  - 
+  - brasil
+  - relacionamento
 image: assets/images/flordelis.jpg
 ---
 Uma mulher, pastora, negra, de origem pobre, com 55 filhos adotivos (nem todos adotados legalmente), deputada federal, além de cantora. É uma linda narrativa, uma história que para ser construída, deve ter enfrentado muitos desafios, julgamentos alheios e sacrifícios. Foram 26 anos de vida conjugal "ungida na glória de Deus" e na aceitação do povo." Um casamento, um contrato, legitimado perante Deus e a sociedade cristã-evangélica. Deixar a peteca cair seria um escândalo, um choque, um desagrado a Deus e aos "irmãos". Mesmo com tantas adversidades, Deus glorificou a Flordelis e a deu de tudo: filhos, casamento estável (?), templos e um mandato, além da presença da jovialidade aos 59 anos — uma jovialidade que, como disse a apresentadora Xuxa, tem origem em fazer o bem.
