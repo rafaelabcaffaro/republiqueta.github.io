@@ -14,7 +14,7 @@ Modernamente, como é do pensamento brazileiro, Durkheim pensa a coesão social 
 
 Assim, criminalizar condutas dá a oportunidade aos brazileiros de reafirmarem seu projeto de coesão social.
 
-No último biênio, a ascenção do bolsonarismo reacelerou o projeto brazileiro de nação. Bolsonaro sintetiza a esperança de coesão social concretizada no abandono dos negros pós-abolição, no crime de vadiagem, nos projetos eugenistas de embranquecimento da população, na concentração de terras, na gentrificação das cidades. Incansável o ímpeto brazileiro em fechar com tijolo as frestas brasileiras.
+No último biênio, a ascensão do bolsonarismo acelerou o projeto brazileiro de nação. Bolsonaro sintetiza a esperança de coesão social concretizada no abandono dos negros pós-abolição, no crime de vadiagem, nos projetos eugenistas de embranquecimento da população, na concentração de terras, na gentrificação das cidades. Incansável o ímpeto brazileiro em fechar com tijolo as frestas brasileiras.
 
 Assim, não se pode subestimar a força de Bolsonaro que advém da valorização de moral cristã aliada ao punitivismo, à valores econômicos liberais e ao elogio do homem médio que tem vida melhor que seus ancestrais. A embalagem da estética populista amplia os efeitos: linguagem simples com reflexos da violência diária, medo da criminalidade, e improviso característico de quem não tem chance de planejar a janta antes de garantir o almoço.
 
