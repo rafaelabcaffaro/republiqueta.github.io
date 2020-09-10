@@ -36,7 +36,7 @@ Só agora que o aborto legal diz respeito à dignidade sexual e reprodutiva da m
 
 Não me parece forçoso concluir que construção de brasilidade pede Direito Penal que não vise a manutenção de coesão social de moralidade cristã.
 
-A descriminalização da multiplicidade brasileira ajudaria a desmontar o medo brazileiro e retiraria o alvo do sistema penal do peito dos brasileiros, que não compartilham dos valores brazileiros.
+A descriminalização da multiplicidade brasileira ajudaria a desmontar o medo brazileiro e retiraria o alvo do sistema penal do peito dos negros e pobres.
 
 Talvez assim os fragmentos brasileiros formem o caleidoscópio que somos e tentamos esconder.
 
