@@ -6,7 +6,7 @@ description: 'Queimadas e desflorestamento podem ter relação com o consumo con
 categories:
   - meio ambiente
   - ecologia
-image: assets/images/queimada.jpg
+image: assets/images/queimadas.jpg
 ---
 Hoje o texto vai ser curto, não quero me estender. Quem acompanha os jornais ou as redes sociais sabe que o Pantanal está em chamas desde Julho e que há um ano as queimadas da Amazônia escureceram o céu de São Paulo. Será que estamos fazendo o necessário pelo meio ambiente? Dói ver o verde se tornando cinza, a vida que existia ali sumindo e até preocupa saber o quanto isso impacta na qualidade do ar que respiramos. Muitos incêndios são causados propositalmente, seja por empresas que precisam explorar para lucrar, disputas por terras indígenas ou até devido à poluição (aquela bituca de cigarro que supostamente não vai dar em nada). E ajudar na preservação pode significar mexer no bolso, apoiando ONG’s ou projetos sociais, porém também podemos ajudar com pequenas ações diárias que influenciam no meio ambiente.
 
