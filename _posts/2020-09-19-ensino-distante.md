@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ensino distante'
+title: 'Ensino distante'
 author: mari
 description: um problema que não é só seu
 categories:
@@ -8,7 +8,6 @@ categories:
   - relacionamento
 image: assets/images/ensino_distante.jpg
 ---
-# o ensino que distancia
 Não estou aqui para reclamar. Que EAD ("Ensino À Distância") é uma alternativa injusta, desgastante e única (#Xô #COVID) já está claro. Mas eu venho expor um pouco de minha experiência como estudante. Antes e durante o tempo de EAD. Sei que os guerreiros não são poucos! (rs)
 
 Para início de conversa, gostaria de contar um pouco da minha história. Cursei meu ensino fundamental em escola pública e, desde pequena, sempre gostei de ler, aprender e ir à escola. Ingressei em uma fundação que concede bolsas para alunos de baixa renda (que, inclusive, contarei mais em artigos futuros) e tive o privilégio de ingressar gratuitamente em uma escola de excelência de SP. Agora estou numa faculdade pública e me dedico integralmente. Sempre fui muito curiosa e dedicada aos estudos e encontrei algumas oportunidades, graças a Deus. Organizada nos cadernos e presente nas aulas. Participante nos grupos e atenta ao professor. Mas agora está tudo bem diferente. Me sinto exausta, mas preguiçosa. Começo a questionar se realmente gosto do que estou aprendendo. Parece que o EAD tem mexido profundamente com a coisa que mais gostava de fazer.
