@@ -38,6 +38,11 @@ authors:
     email: pessoasales@usp.br
     twitter: https://twitter.com/lgpsales
     description: "Cada vez menos interessado em definições e cada vez mais encantado com as relações."
+  manoL:
+    name: Mano Lyee
+    display_name: Mano Lyee
+    avatar: 'assets/images/mano-lyee.jpg'
+    description: "Acreditando que somente com cultura de roda de conversas e diálogos pode se levar mais conhecimento e informações através da arte, cultura poesia e cidadania -o presente é a arma do futuro, com a munição do passado."
   mari:
     name: Mariana Freire
     display_name: Mariana Freire
