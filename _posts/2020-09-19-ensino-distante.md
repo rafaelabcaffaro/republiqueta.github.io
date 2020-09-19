@@ -6,7 +6,7 @@ description: um problema que não é só seu
 categories:
   - ensino
   - pandemia
-image: assets/images/mascara.jpg
+image: assets/images/ensino_distante.jpg
 ---
 # o ensino que distancia
 Não estou aqui para reclamar. Que EAD ("Ensino À Distância") é uma alternativa injusta, desgastante e única (#Xô #COVID) já está claro. Mas eu venho expor um pouco de minha experiência como estudante. Antes e durante o tempo de EAD. Sei que os guerreiros não são poucos! (rs)
