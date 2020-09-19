@@ -5,7 +5,7 @@ author: mari
 description: um problema que não é só seu
 categories:
   - ensino
-  - pandemia
+  - relacionamento
 image: assets/images/ensino_distante.jpg
 ---
 # o ensino que distancia
