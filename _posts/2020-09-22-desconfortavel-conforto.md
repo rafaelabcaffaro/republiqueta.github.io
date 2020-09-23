@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Desconfortável Conforto"
-author: Juan
+author: juan
 description: "O desconforto me move"
 categories: [ poema ]
 image: assets/images/desconforto.jpg
