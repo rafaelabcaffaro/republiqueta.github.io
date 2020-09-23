@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Desconfortável Conforto"
-author: Juan Comamala
+author: Juan
 description: "O desconforto me move"
 categories: [ poema ]
 image: assets/images/desconforto.jpg
