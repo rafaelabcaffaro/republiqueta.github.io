@@ -8,7 +8,6 @@ categories:
   - relacionamento
 image: assets/images/influencers.jpg
 ---
-# influencers 
 
 Cláudia[^1] já postou na segunda-feira: *Segundou! Corridinha para cuidar do shape.* Fernando já garantiu em seu *stories* que esta semana promete; com muito estudo, você também vai conseguir alcançar seu sonho de ser rico como ele! Já fez sua *skin care*? Porque a Ana já e inclusive ela te ensina como alcançar aquela pele macia e aveludada dos sonhos. 
 
