@@ -55,4 +55,4 @@ Se cuida, amigo. As redes mostram o melhor, mas desperta o pior de nós.
 [^1]: Este, como todos os outros nomes, são fictícios e não correspondem a nenhum sujeito específico.
 
 ---
-A imagem é Livre para uso pessoal e comercial, sob CC0 Domínio público. Para mais informações: https://pxhere.com/pt/photo/1601900
+Imagem por Mariana Freire é licenciada sob CC BY 2.0. Para ver uma cópia da licença, visite https://creativecommons.org/licenses/by/2.0/
