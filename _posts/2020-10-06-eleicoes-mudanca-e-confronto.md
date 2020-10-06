@@ -57,7 +57,7 @@ Assim, a urgência é grande para a ação e não há como demolir o arcaísmo c
 
 Em poucas semanas, teremos martelo pesado em nossas mãos. O voto nas eleições municipais pode ser o início da reorganização do poder, com avanço das mulheres, dos negros e dos periféricos.
 
-Não adianta ser antirracista e não apoiar em candidatas negras. Não adianta ser progressista se não atuar para além de votar nessas eleições. É necessário olhar para o período eleitoral como momento de empenho. É hora de tomar partido para alçar o povo ao poder.
+Não adianta ser antirracista e não apoiar candidatas negras. Não adianta ser progressista se não atuar para além de votar nessas eleições. É necessário olhar para o período eleitoral como momento de empenho. É hora de tomar partido para alçar o povo ao poder.
 
 Do outro lado, a elite e os retrógrados estão empenhados em manter tudo como sempre foi. E não atuar no processo eleitoral é ajudá-los em seu arcaísmo como projeto.
 
