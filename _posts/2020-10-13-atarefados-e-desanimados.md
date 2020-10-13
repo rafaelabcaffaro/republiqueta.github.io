@@ -2,7 +2,7 @@
 layout: post
 title: Para os atarefados e desanimados
 author: mari
-description: Lugar de fala e ultracrepidários
+description: O cansaço das metas frustradas
 categories:
   - relacionamento
   - saúde
