@@ -27,5 +27,6 @@ Como de costume, falo aqui uma ideia final. Sonhe, planeje, estabeleça metas. M
 eyJoaXN0b3J5IjpbLTEyOTMyNTg4NjgsLTE3NjEyMTc5OTQsLT
 MzMjg2NjYxXX0=
 -->
+
 ---
 Imagem por Mariana Freire é licenciada sob CC BY 2.0. Para ver uma cópia da licença, visite https://creativecommons.org/licenses/by/2.0/
