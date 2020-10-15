@@ -1,7 +1,7 @@
 ---
 author: manoL
 categories: ["brasil", "política"]
-description: 'Persistência todo'
+description: 'a rua atenta e atiça mas a Educação faz a diferença'
 image: assets/images/criancas.jpg
 layout: post
 title: "Nosso futuro precisa de investimento"
@@ -10,7 +10,7 @@ Nosso futuro precisa de investimento
 
 Emergencial no ensino fundamental
 
-Tanto na rede escolar,como na comunidade,na rua e principalmente no lar se não dermos nossa contribuição de conhecimentos experiência de vida, ensinamentos
+Tanto na rede escolar, como na comunidade, na rua e principalmente no lar se não dermos nossa contribuição de conhecimento experiência de vida, ensinamentos
 
 Para nossa base viveremos sempre
 
