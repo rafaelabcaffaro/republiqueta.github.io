@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Onde estamos e para onde vamos'
+title: 'Onde estamos e para aonde vamos'
 author: igorL
 description: 'Reflexões sobre 2020, Bolsonaro e COVID-19/Coronavírus'
 categories:
@@ -15,7 +15,7 @@ Há um ano ninguém imaginaria o cenário atual, há um ano 500 mortos por dia d
 
 Quando eu paro para pensar no Brasil pós-pandemia e pós um governo extremamente polêmico e com medidas e posicionamentos que ferem ainda mais o País eu logo me lembro de Adorno. Mas quem foi Adorno e por que o Adorno? Bem, Theodor W. Adorno foi um Filósofo e Sociólogo muito conhecido por suas contribuições e em uma de suas obras ele faz a seguinte afirmação: “escrever um poema após Auschwitz é um ato bárbaro, e isso corrói até mesmo o conhecimento de porque hoje se tornou impossível escrever poemas”. Com isso eu pergunto, haverá poema após o COVID-19? Como produzir Arte, buscar ou enxergar o Belo e ser Feliz após 100 mil mortos? Como fazer isso após um Presidente que não se importa com milhares de mortes diárias por não ser coveiro? Não é possível fazer poema após o COVID-19. Não acho que é possível comparar os eventos, mas o ponto principal é que nos acostumamos com 500 mortos por dia, com um presidente que é explicitamente homofóbico, racista, machista, misógino e por ai vai a lista.
 
-Nós chegamos a um ponto de entorpecimento que a barbaridade não assusta mais, não causa efeito, aceitamos que "a política no Brasil é assim" e que amanhã teremos mais 500 mortes. Talvez minha visão seja um tanto quanto pessimista, espero que realmente seja isso, mas creio que este é o momento perfeito para refletirmos sobre nossas prioridades, nossos valores e aquilo que julgamos importante. Para onde estamos indo? Elegemos um presidente que não se importa com mais de 100 mil mortos, quem iremos eleger em 2022? Por que a barbárie está cada vez mais normal?
+Nós chegamos a um ponto de entorpecimento no qual a barbaridade não assusta mais, não causa efeito, aceitamos que "a política no Brasil é assim" e que amanhã teremos mais 500 mortes. Talvez minha visão seja um tanto quanto pessimista, espero que realmente seja isso, mas creio que este é o momento perfeito para refletirmos sobre nossas prioridades, nossos valores e aquilo que julgamos importante. Para onde estamos indo? Elegemos um presidente que não se importa com mais de 100 mil mortos, quem iremos eleger em 2022? Por que a barbárie está cada vez mais normal?
 
 ---
 
