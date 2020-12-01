@@ -25,7 +25,7 @@ Acha sintomático a criação do verbo impessoal sextar? A gente já tinha o fim
 
 É diferente de falar que choveu. Se chove, todo mundo na mesma região onde o céu molhou o chão pode dizer a mesma coisa. Já quem fala sextou fala de si. É realidade individual. Ao encontrar-se com alguém, é preciso a pergunta: sextou!? Afinal, ainda pode se ter coisa séria por fazer.
 
-Acho que no fundo isso se dá porque o sextar é um distanciamento da pessoa da sua realidade que, como se quer, é individual. Explico. Cada um tem o sonho da vida própria, mas a féria da semana para alcançá-lo insiste em castigar. Como pode ser meio para o sonho e castigo para ao mesmo tempo? Nessa contradição, quando o sujeito se vê livre dos açoites, de preferência semanalmente, ao fim da tarde da sexta-feira, sua realidade sexta. Isso se dá em um micro instante quando uma sensação de alívio invade o corpo todo. No tempo que mente se dá conta, já sextou.  
+Acho que no fundo isso se dá porque o sextar é um distanciamento da pessoa da sua realidade que, como se quer, é individual. Explico. Cada um tem o sonho da vida própria, mas a féria da semana para alcançá-lo insiste em castigar. Como pode ser meio para o sonho e castigo ao mesmo tempo? Nessa contradição, quando o sujeito se vê livre dos açoites, de preferência semanalmente, ao fim da tarde da sexta-feira, sua realidade sexta. Isso se dá em um micro instante quando uma sensação de alívio invade o corpo todo. No tempo que mente se dá conta, já sextou.  
 
 Ainda pode ficar a sensação de que no sábado pelo manhã terá muito o que fazer, afinal esse é o tempo da vida própria. Passo apertado para que caiba nesses dias entre o sextar e a melancolia do domingo à noite - essa sim, uma realidade compartilhada por muitos.
 
