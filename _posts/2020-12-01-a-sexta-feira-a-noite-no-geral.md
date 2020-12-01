@@ -11,7 +11,7 @@ Sextou. A noite cai e a versão do Nação Zumbi de "Dois animais na selva suja 
 
 O primeiro episódio tem uma fotografia intrigante. É tudo estourado. Uma branquidão no céu. Mais tarde aparece o líder religioso do canto do sertão brasileiro retratado. A cena grita "Deus e o Diabo na Terra do Sol". Entendo a fotografia. É massa. Aliás, essa expressão "é massa" só está aqui no texto porque uma personagem recifense usa aqui e acolá. Achei massa, embora me falte a canção doce na fala.
 
-Sabe, nunca ouvi Erasmo Carlos de verdade. Ouvi agora, depois do último ponto final, o disco "Carlos, Erasmo", de 1971, que tem a música da ponte erguida que leva para o outro lado da vida. E tá lá o arranjo que me fez curtir a músic!. era da gravação original!
+Sabe, nunca ouvi Erasmo Carlos de verdade. Ouvi agora, depois do último ponto final, o disco "Carlos, Erasmo", de 1971, que tem a música da ponte erguida que leva para o outro lado da vida. E tá lá o arranjo que me fez curtir a música. era da gravação original!
 
 E, agora, o aplicativo ainda me joga "Nega Música" do Itamar assunção que me remete à "Dreams" do TV on the Radio. Não sei bem o porquê. Talvez por que era a música vocal que mais tinha me marcado...
 
