@@ -13,7 +13,7 @@ O primeiro episódio tem uma fotografia intrigante. É tudo estourado. Uma branq
 
 Sabe, nunca ouvi Erasmo Carlos de verdade. Ouvi agora, depois do último ponto final, o disco "Carlos, Erasmo", de 1971, que tem a música da ponte erguida que leva para o outro lado da vida. E tá lá o arranjo que me fez curtir a música. era da gravação original!
 
-E, agora, o aplicativo ainda me joga "Nega Música" do Itamar assunção que me remete à "Dreams" do TV on the Radio. Não sei bem o porquê. Talvez por que era a música vocal que mais tinha me marcado. . .
+E, agora, o aplicativo ainda me joga "Nega Música" do Itamar assunção que me remete à "Dreams" do TV on the Radio. Não sei bem o porquê. Talvez porque era a música vocal que mais tinha me marcado. . .
 
 Sabe, hoje sextou com rádio Sucupira, com descoberta de curta em animação em coluna de jornal.
 
