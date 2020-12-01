@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sexta a noite, no geral'
+title: 'Sexta-feira à noite, no geral'
 author: lg
 description: 'Um sábado e o zanzar do tempo'
 categories:
