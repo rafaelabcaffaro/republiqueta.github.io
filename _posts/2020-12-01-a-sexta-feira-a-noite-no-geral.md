@@ -19,7 +19,7 @@ Sabe, hoje sextou com rádio Sucupira, com descoberta de curta em animação em 
 
 Sextou com brazileiro e seu pensamento mesquinho. Sextou com juventude franciscana dando esperança.
 
-Sextou? Com trabalho para amanhã meio-dia, mutirão do grupo "Dívida justa" da FGV, reunião de outro trabalho a noite, eleição domingo e provas semana que vem?
+Sextou? Com trabalho para amanhã meio-dia, mutirão do grupo "Dívida justa" da FGV, reunião de outro trabalho à noite, eleição domingo e provas semana que vem?
 
 Acha sintomático a criação do verbo impessoal sextar? A gente já tinha o fim de semana como locução substantiva. Sua chegada amanhã liberava a sexta à noite para ser o que bem entendesse. Em tempo de tomar as rédeas do tempo e viver em ações incessantes para fazer tudo caber no tempo em que se está, é preciso que a noite de sexta seja verbo. Sextou! Acho até que seja verbo com defeito em que só se ache essa conjugação do pretérito perfeito.
 
