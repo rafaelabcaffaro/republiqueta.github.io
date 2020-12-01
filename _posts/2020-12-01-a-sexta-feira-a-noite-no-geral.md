@@ -7,7 +7,7 @@ categories:
   - sociedade
 image: assets/images/ponte.jpg
 ---
-Sextou. a noite cai e a versão do Nação Zumbi de "Dois animais na selva suja da rua", do Erasmo, não me sai da cabeça. Deve ser porque fiz uma assinatura de plataforma de *streaming* nacional e estou assistindo a uma série brasileira, dessas que passa às 23h na TV aberta.
+Sextou. A noite cai e a versão do Nação Zumbi de "Dois animais na selva suja da rua", do Erasmo, não me sai da cabeça. Deve ser porque fiz uma assinatura de plataforma de *streaming* nacional e estou assistindo a uma série brasileira, dessas que passa às 23h na TV aberta.
 
 O primeiro episódio tem uma fotografia intrigante. É tudo estourado. Uma branquidão no céu. Mais tarde aparece o líder religioso do canto do sertão brasileiro retratado. A cena grita "Deus e o Diabo na Terra do Sol". Entendo a fotografia. É massa. Aliás, essa expressão "é massa" só está aqui no texto porque uma personagem recifense usa aqui e acolá. Achei massa, embora me falte a canção doce na fala.
 
