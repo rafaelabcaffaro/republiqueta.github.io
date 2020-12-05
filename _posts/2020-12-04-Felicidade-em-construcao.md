@@ -11,7 +11,7 @@ categories:
 
 - conto
 
-image: assets/images/pedreirojpg
+image: assets/images/pedreiro.jpg
 
   
 
