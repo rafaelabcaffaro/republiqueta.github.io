@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Quem é sua benzedera'
+title: 'Quem é sua benzedera?'
 author: lg
 description: 'Esquece o futuro, lembra do passado e acerta o que tá errado hoje'
 categories:
