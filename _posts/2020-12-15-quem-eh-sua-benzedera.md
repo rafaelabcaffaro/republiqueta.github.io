@@ -30,7 +30,7 @@ Leandro avisa: o maço é nóis. Tudo, tudo, tudo que nóis tem é nóis.
 
 Não sabe?
 
-Isso de se ligar com o que já foi, quem estuda chama de religião. E Emicida, Fioti e todos fantasmas do lab tem a sensibilidade de ver que esse tempo de se religar é o tempo do cultivo e não da razão.
+Isso de se ligar com o que já foi, quem estuda chama de religião. E Emicida, Fióti e todos fantasmas do lab tem a sensibilidade de ver que esse tempo de se religar é o tempo do cultivo e não da razão.
 
 Essa virada no jeito das coisas dá chance pra mudança. Mas tudo pode continuar como tá. Pra melhorá precisa cuidado e pensá fora da planilha.
 
