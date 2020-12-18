@@ -93,3 +93,7 @@ adsense-data-ad-slot: ""
 lazyimages: "disabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, vendor, .jekyl-cache]
+
+collections:
+  autores:
+    output: true
