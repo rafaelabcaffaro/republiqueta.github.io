@@ -1,0 +1,22 @@
+---
+layout: default
+image: assets/images/logo.png
+---
+{% assign author = site.authors[page.author] %}
+
+<div class="section-title col-md-12 mt-4">
+<h2 >{{ author.display_name }}</h2>
+</div>
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+    <div class="row listrecent">
+        {% assign posts = site.posts | where: 'author', page.author %}
+        {% for post in posts %}
+
+        {% include postbox.html %}
+
+        {% endfor %}
+    </div>
+</section>
