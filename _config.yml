@@ -53,6 +53,11 @@ authors:
     display_name: Mends
     avatar: 'assets/images/mends.jpg'
     description: "44 anos sendo uma errata ambulante. Não me siga, porque não faço a mínima ideia pra onde estou indo. Não sabia o que queria com 18, não é agora que vou saber."
+  rafa:
+    name: Rafaela Cáffaro
+    display_name: Rafaela Cáffaro
+    avatar: 'assets/images/rafa.jpg'
+    description: "Gosta da leveza que não me tira do chão"
 
 # Plugins
 plugins:
