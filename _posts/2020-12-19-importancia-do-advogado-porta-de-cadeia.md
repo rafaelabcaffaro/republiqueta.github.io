@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "A IMPORTÂNCIA DO ADVOGADO PORTA DE CADEIA"
+title:  "A IMPORTÂNCIA DO ADVOGADO "PORTA DE CADEIA""
 author: juan
 description: 
 categories: [ opinião ]
-image: assets/images/adv.jpeg
+image: assets/images/adv.jpg
 ---
 
 De acordo com o Censo da Educação Superior 2017 divulgado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), o Brasil possui 1.154.751 de estudantes e, de acordo com a Ordem dos Advogados do Brasil (OAB) 1.281.455 de advogados. O curso de Direito possui o maior número de estudantes em todo território nacional. Com o maior acesso à educação, um curso como esse, por não precisar de laboratórios, equipamentos de alta tecnologia e aulas práticas, acaba sendo um curso com um baixo custo para as universidades quando comparado com um curso como Medicina; esse fato resulta numa maior oferta com uma maior demanda devido o maior acesso à educação. Mas, apesar do grande número de advogados e potenciais advogados, o acesso à justiça pela população pobre continua sendo negligenciado, distante e burocrático. E, os advogados que trabalham com casos de pessoas naturais (pessoas físicas), como o advogado criminal, são os grandes agentes do direito, mas não são os protagonistas.
