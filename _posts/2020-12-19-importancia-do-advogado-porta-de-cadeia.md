@@ -26,7 +26,7 @@ Quando esses estudantes de direito que partem da periferia se tornam advogados, 
 
 Aliás, precisa-se dizer que, pessoas miseráveis, ainda que nessa condição, também têm o direito a ter necessidade de fazer a sua higiene pessoal, além de atender ao instinto de procurar saciar a sua fome e assim atender à sua humanidade.
 
-Por fim, é necessário que o todos nós nos oponhamos a qualquer possibilidade da desmoralização, ataques infundados e injustificados a advogados que construíram suas vidas na defesa dos Direitos Humanos, independente de quem defendam. O verdadeiro cliente do advogado criminal não é o criminoso, é a liberdade. Sem liberdade, não há humanidade. E, como dizia o ilustre jurista Rui Barbosa, por mais atroz que tenha sido o crime atribuído a um ser humano, ele não decai do abrigo da legalidade.
+Por fim, é necessário que o todos nós nos oponhamos a qualquer possibilidade da desmoralização, ataques infundados e injustificados a advogados que construíram suas vidas na defesa dos Direitos Humanos, independente de quem defendam. O verdadeiro cliente do advogado criminal não é o criminoso, é a liberdade. Sem liberdade, não há humanidade. E, como dizia o ilustre jurista Ruy Barbosa, por mais atroz que tenha sido o crime atribuído a um ser humano, ele não decai do abrigo da legalidade.
 
 ---
 
