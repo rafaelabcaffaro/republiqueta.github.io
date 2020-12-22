@@ -29,6 +29,5 @@ Aliás, precisa-se dizer que, pessoas miseráveis, ainda que nessa condição, t
 Por fim, é necessário que o todos nós nos oponhamos a qualquer possibilidade da desmoralização, ataques infundados e injustificados a advogados que construíram suas vidas na defesa dos Direitos Humanos, independente de quem defendam. O verdadeiro cliente do advogado criminal não é o criminoso, é a liberdade. Sem liberdade, não há humanidade. E, como dizia o ilustre jurista Ruy Barbosa, por mais atroz que tenha sido o crime atribuído a um ser humano, ele não decai do abrigo da legalidade.
 
 ---
-
 "Advogado criminal" de Juan Comamala está licenciado com uma Licença Creative Commons - Atribuição 4.0 Internacional.
 Baseado no trabalho disponível em https://drive.google.com/file/d/14D_HDI2EIx4tR4JywRe91Fr8ZcPBNksN/view?usp=sharing.
