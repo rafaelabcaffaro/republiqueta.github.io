@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "A IMPORTÂNCIA DO ADVOGADO PORTA DE CADEIA"
+title:  "A importância do advogado Porta de Cadeia"
 author: juan
-description: 
+description:
 categories: [ opinião ]
-image: assets/images/adv.jpg
+image: assets/images/criminalista.jpg
 
 ---
 
