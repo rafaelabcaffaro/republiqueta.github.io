@@ -110,5 +110,9 @@ cabe numa república com um presidente genocida que, na história, já apareceu 
 outras faces, mas sempre com o mesmo espectro que nega o conhecimento, a luta popular e a
 cultura, ferramentas necessárias para a construção de uma nação.
 
+Bibliografia: 
+
+LUGON, Clovis. A República Guarani. São Paulo: Expressão Popular, 2009.
+
 ---
 "Turismo Social | Missões | Ruínas de São Miguel das Missões | BRA | Foto - Dalmir Ribeiro Lima - IMG_8773" por Sesc em São Paulo é licenciada sob CC BY-NC-ND 2.0. Para ver uma cópia da licença, visite <https://creativecommons.org/licenses/by-nc-sa/2.0/>
