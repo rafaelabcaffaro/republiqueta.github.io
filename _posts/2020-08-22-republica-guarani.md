@@ -76,7 +76,7 @@ as crianças pobres comiam sobras do lixo, assim como os doentes.
 
 Ademais, a República Guarani-Comunista atendia às exigências democráticas mais
 modernas. Elas não eram como a concepção de democracia que temos hoje, mas eram
-mais reais do que as democracias burguesa,dsddo, já no tempo do Iluminismo. A autoridade
+mais reais do que as democracias burguesas, fato esse já no tempo do Iluminismo. A autoridade
 dos caciques com o tempo deixou de existir. Era com eleições e pelo exercício da
 administração pública que os guaranis adquiriram o sentimento de autonomia "nacional" e
 da responsabilidade com o bem-comum. Toda a prática administrativa estava nas
@@ -84,7 +84,7 @@ mãos dos Guaranis. Eles também eram responsáveis pela justiça.
 
 As eleições ocorriam ao fim de dezembro ou nos primeiros dias do ano. Não existia voto
 secreto, a opinião popular se exprimia com liberdade. Não havia partidos e a
-concepção de "bem-comum" reinante entre todos. Em nenhum momento houve opinião
+concepção de "bem-comum" era reinante entre todos. Em nenhum momento houve opinião
 anti-coletiva ou favorável ao sistema colonialista. Pessoas de todas as idades poderiam
 participar das eleições, exceto para cargos da justiça. E, cada redução funcionava como um
 Estado independente dentro de uma república, mas com uma legislação civil, penal e militar
