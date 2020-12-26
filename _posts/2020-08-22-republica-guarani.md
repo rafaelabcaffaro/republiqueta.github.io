@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1° República Brasileira: indígena comunista'
+title: '1° República Brasileira: indígena e comunista'
 author: juan
 description:
 categories:
@@ -12,7 +12,7 @@ image: assets/images/republica_guarani.jpg
 ---
 Em um ano em que estátuas de colonizadores genocidas e estupradores são derrubadas e
 a população mundial vai às ruas em meio a uma pandemia pedindo por igualdade racial e
-democracia, temos também que discutir o apagamento da história de nossos povos em
+democracia, temos também que discutir o apagamento da história de nosso povo em
 nossos livros, escolas e universidades. Em 2020 teremos 17 anos da obrigatoriedade do
 ensino de história e cultura afro-brasileira nas escolas, mas isso não significa uma real
 execução desse ensino, assim como o ensino de história e cultura dos povos indígenas que
@@ -30,20 +30,18 @@ apagamento da cultura e religião.
 A verdade é que os indígenas brasileiros já protagonizaram uma das maiores repúblicas
 comunista do mundo. República essa que foi comunista e cristã, liderada por jesuítas e
 indígenas. Isso é parte de nossa história e provavelmente não está em livros de escolas
-públicas.
-
-A República Comunista Cristã era composta pelo povo Guarani e jesuítas. A religião
-predominante desse grupo era composta por um único Deus, sem cultos, sem sacerdotes,
+públicas. A República Comunista Cristã era composta pelo povo Guarani e pelo jesuítas. A religião
+predominante era composta por um único Deus, sem cultos, sem sacerdotes,
 uma prática religiosa de livre arbítrio.
 
 Os jesuítas chegaram no Paraguai e sudoeste do Brasil por volta de 1580. Eles não
 aceitavam a escravização dos nativos, a consequência desse pensamento antidominante foi
 a separação do Paraguai das províncias e o isolamento dos Jesuítas com os Guaranis,
-assim foi estabelecidas as primeiras reduções, onde, como declarou o rei Felipe III da
+assim foram estabelecidas as primeiras reduções, onde, como declarou o rei Felipe III da
 Espanha, os indígenas não poderiam ser escravizados por ninguém.
 
-A partir disso, com a notícia de liberdade dos nativos, padres e jesuítas, por meio de outras
-reduções, se juntaram para a construção da primeira República Comunista-Cristã: duas mil
+A partir disso, com a notícia de liberdade dos nativos, padres e jesuítas de outras
+reduções se juntaram para a construção da primeira República Comunista-Cristã: duas mil
 famílias formando uma população emergente. Segundo o jesuíta Francisco Javier de
 Charlevoix: “as reduções do Guairá podiam rivalizar com as melhores cidades espanholas
 do Paraguai. As suas igrejas eram até maiores e mais ornamentadas e os neófitos só se
@@ -59,8 +57,8 @@ Posteriormente, após invasões, guerras e migrações, a República Guarani pô
 margem do Paraná e do Paraguai e, assim, se expandiram em todas as direções. Haviam
 escolas que levavam em consideração o clima, a fertilidade do solo e a paisagem, assim
 como as vantagens estratégicas para a sua defesa, com uma população armada. As
-cidades, além de seguirem a um modelo padrão com ruas retas e bem arquitetas, igrejas ao
-centro, praças com pinheiros e palmeiras e monumentos religiosos, estavam a margem de
+cidades, além de seguirem um modelo padrão com ruas retas e bem arquitetas, igrejas ao
+centro, praças com pinheiros e palmeiras e monumentos religiosos, estavam à margem de
 um rio navegável.
 
 Em 1730, as “cidades” espanholas eram verdadeiros povoados e os “povoados” da
@@ -73,19 +71,19 @@ o jesuíta Martin Schmid, essas cidades espanholas carregavam o nome de cidades,
 não passavam de vilas, enquanto que as reduções guaranis tinham o nome de vilas, mas
 eram verdadeiras cidades. Tanto por seu sistema geral, quanto pelas suas dimensões e
 arquitetura de seus prédios e também pela vida social intensa com atividades variadas e
-grande população. Nas cidades espanholas, locais de exploração do capitalismo Mercantil,
+grande população. Isso, ao mesmo tempo que nas cidades espanholas, locais de exploração do capitalismo Mercantil,
 as crianças pobres comiam sobras do lixo, assim como os doentes.
 
 Ademais, a República Guarani-Comunista atendia às exigências democráticas mais
 modernas. Elas não eram como a concepção de democracia que temos hoje, mas eram
 mais reais do que as democracias burguesa, isso, já no tempo do Iluminismo. A autoridade
-dos caciques com o tempo, deixou de existir. E com eleições e pelo exercício da
+dos caciques com o tempo deixou de existir. Era com eleições e pelo exercício da
 administração pública que os guaranis adquiriram o sentimento de autonomia "nacional" e
-da responsabilidade para com o bem-comum. Toda a prática administrativa estava nas
+da responsabilidade com o bem-comum. Toda a prática administrativa estava nas
 mãos dos Guaranis. Eles também eram responsáveis pela justiça.
 
-Eleições ocorriam ao fim de dezembro ou nos primeiros dias do ano. Não existia voto
-secreto, mas a opinião popular se exprimia com liberdade. Não havia partidos e a
+As eleições ocorriam ao fim de dezembro ou nos primeiros dias do ano. Não existia voto
+secreto, a opinião popular se exprimia com liberdade. Não havia partidos e a
 concepção de "bem-comum" reinante entre todos. Em nenhum momento houve opinião
 anti-coletiva ou favorável ao sistema colonialista. Pessoas de todas as idades poderiam
 participar das eleições, exceto para cargos da justiça. E, cada redução funcionava como um
@@ -96,22 +94,21 @@ liberdades locais asseguradas por um regime político e econômico unificado. E 
 público e para todos. Todos possuíam roupas de qualidade feitas com matéria-prima das
 reduções, todos possuíam comida, trabalho e educação. E, quando uma redução carecia de
 algum suprimento, uma outra redução doava o que era necessário, nada era feito para criar
-um excedente com objetivos capitalistas e exploratória e sim para ser compartilhado. Não
+um excedente com objetivos capitalistas e exploratórios e sim para ser compartilhado. Não
 havia propriedade privada dos meios de produção. Toda terra e comida era coletiva, os bens
 eram públicos. Era uma república sem divisões e sem classe. Não havia fome, pobreza e
 nem desigualdade.
 
 Em contraste, hoje temos um retrocesso gritante em nossa sociedade: uma democracia
-frágil e irreal, além da presença da desigualdade social, o ataque ao meio ambiente, crises
+frágil e irreal, além da constante presença da desigualdade social, há o ataque ao meio ambiente, crises
 econômicas recorrentes, exploração capitalista, uma política corrupta, um Estado que age
-objetivando matar e prender pretos e pobres e escolas que parecem prisões, sem o culto ao
-debate, ao conhecimento, à ciência, à cultura e a história. Esse obscurantismo nefasto cujo
-cérebro é o sistema capitalista e o neoliberalismo está sendo responsável pelo surgimento
-de uma crescente revolta e busca por igualdade racial no Brasil e no mundo. Tudo isso
-cabe em uma república com um presidente genocida, sendo ele um dos atores de um
-sistema capitalista neoliberal cuja sua face, na história, já apareceu com outros nomes e
-outras formas, mas sempre o mesmo espectro que nega o conhecimento, a democracia e a
-cultura, as ferramentas necessárias para a construção de nação.
+para matar e prender pretos e pobres. Além de escolas que parecem prisões, sem o culto ao
+debate, ao conhecimento, à ciência, à cultura e a história. Esse obscurantismo nefasto, cujo
+cérebro é o sistema capitalista e o neoliberalismo, está sendo responsável pelo surgimento
+de uma crescente revolta e busca por igualdade racial no Brasil e no mundo. Hoje, tudo isso
+cabe numa república com um presidente genocida que, na história, já apareceu com outros nomes e
+outras faces, mas sempre com o mesmo espectro que nega o conhecimento, a luta popular e a
+cultura, ferramentas necessárias para a construção de uma nação.
 
 ---
 "Turismo Social | Missões | Ruínas de São Miguel das Missões | BRA | Foto - Dalmir Ribeiro Lima - IMG_8773" por Sesc em São Paulo é licenciada sob CC BY-NC-ND 2.0. Para ver uma cópia da licença, visite <https://creativecommons.org/licenses/by-nc-sa/2.0/>
