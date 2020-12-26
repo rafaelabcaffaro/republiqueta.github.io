@@ -19,4 +19,4 @@ Logo, a história se repete, e é confortável saber que Donald Trump perdeu as 
 ---
 Imagem por drl. é licenciada sob CC BY-NC-SA 2.0.Para ver uma cópia dessa licença, acesse https://creativecommons.org/licenses/by-nc-sa/2.0/
 
-1. https://brasilescola.uol.com.br/historia-da-america/doutrinamonroe.htm
+1. SOUSA, Rainer Gonçalves. "Doutrina Monroe"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/historia-da-america/doutrinamonroe.htm. Acesso em 26 de dezembro de 2020.
