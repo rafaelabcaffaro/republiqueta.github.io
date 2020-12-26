@@ -10,15 +10,15 @@ image: assets/images/caixao.jpg
 ---
 Imaginei que seria de outro jeito, mas como não foi, não é. Tem que pensar que daqui a pouco tudo melhora porque se não o país quebra. Muita empresa com problema financeiro. Ano que vem vai ser complicado.
 
-- Vacina é a salvação pra economia!
+&mdash; Vacina é a salvação pra economia!
 
 Imagina se fosse de outro jeito, como não imaginou, não será. Tem que pensar que daqui a pouco tudo fica na mesma, empresariado, no geral, não sofre. Muita gente de grana fez lucro financeiro. Ano que vem vai ser reprise desse ano.
 
-- Vacina é remédio pra mim, assim não pego corona!
+&mdash; Vacina é remédio pra mim, assim não pego corona!
 
 Imagino que pode ser de outro jeito, mas como só imaginar não basta, esquece. Tem que pensar que daqui a pouco, até março, morrerão mais 65 mil brasileiros. A miséria aumenta. Muita gente com problema financeiro, do tipo que não deixa comprar o almoço. Ontem já era complicado.
 
-- Vacina não é instrumento de saúde pública!
+&mdash; Vacina não é instrumento de saúde pública!
 
 Imagine, se fosse outro, o jeito não seria o mesmo. O outro não é tratado pela PM, pela sociedade, por tu, do mesmo jeito que tu te tratas. O outro só pensa nele, não tem o que faze. Tenho que pensa nos meus. Quero minha vacina. Depois, faço exame particular ou do plano de saúde com direito a quarto no hospital chique pra saber se desenvolvi imunidade, sabe.
 
@@ -28,7 +28,7 @@ Essa pandemia ensinou: a fazê pão, a xingá _live_, a ficá cansado porque nã
 
 O que se conclui? Que é nítido não podê pará escola.
 
-- Professora, merendeiro e faxineiro é tudo trabalhador essencial.
+&mdash; Professora, merendeiro e faxineiro é tudo trabalhador essencial.
 
 Corre, corre, corre. Entrega. Caiu a féria. Boleto pago. Não vejo hora de férias.
 
@@ -38,7 +38,7 @@ Não pode festa, mas vou fazê um cardapinho caprichado, sabe. Entrada, sobremes
 
 Depois, só ninguém atrapaiá que o mercado resolve.
 
-- Década perdida! Esse Estado só atrapalha.
+&mdash; Década perdida! Esse Estado só atrapalha.
 
 Espera, tem pior. Tem quem se considere entendido nas mazelas, que percebe as desigualdades, mas se empola em parágrafo tão comprido que perde o sentido numa curva entre uma vírgula e um pronome de tratamento que nem se sabe a que se refere mais. Ou seu amigo, que se gaba de modelo na planilha, dessa ciência econômica vendida como se juro fosse gravidade e o mercado um universo dado.
 
