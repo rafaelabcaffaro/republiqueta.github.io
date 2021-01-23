@@ -2,7 +2,7 @@
 layout: post
 title: 'Heroísmo, espalhafato, gol contra e violência'
 author: lg
-description: 'PM que merece expulsão, política espalhafatosa contra a pandemia de efeito no médio prazo no número de mortes, e combate diário ao vírus medíocre.'
+description: 'PM que merece expulsão, política espalhafatosa contra a pandemia de efeito apenas no médio prazo no número de mortes, e combate diário ao vírus medíocre.'
 categories:
   - brasil
   - política
@@ -36,7 +36,7 @@ A mesma política que mata mais negros do que brancos via aparato policial, mata
 
 Veja, é certo que Dória saiu do banco de reservas e fez três gols contra a pandemia e o bolsonarismo. "Deu show".
 
-Porém, sua PM merece expulsão, sua política contra a pandemia de efeito no médio prazo no número de mortes é espalhafatosa, e seu combate diário ao vírus é medíocre mesmo com a tentativa de vestir a camisa dez. Enquanto isso morrem mil brasileiros por dia e o estado de São Paulo soma mais de 50 mil mortos.
+Porém, sua PM merece expulsão, sua política contra a pandemia de efeito apenas no médio prazo no número de mortes é espalhafatosa, e seu combate diário ao vírus é medíocre mesmo com a tentativa de vestir a camisa dez. Enquanto isso morrem mil brasileiros por dia e o estado de São Paulo soma mais de 50 mil mortos.
 
 Apesar dos indícios, seguimos confiantes de que a solução para retomar o ritmo de títulos dos anos noventa e dois mil é o governador paulista, sem considerar se ele continuará aplaudindo a violência e se vai bater cabeça marcando gol contra no combate às desigualdades.
 
