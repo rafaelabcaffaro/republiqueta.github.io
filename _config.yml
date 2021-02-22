@@ -16,6 +16,11 @@ future: false
 
 # Authors
 authors:
+  guilherme:
+    name: Guilherme Cruz
+    display_name: Guilherme Cruz
+    avatar: 'assets/images/guilherme.jpg'
+    description: "Me equilibrando entre olhar o passado e viver no presente"
   igorL:
     name: Igor Lopes
     display_name: Igor Lopes
